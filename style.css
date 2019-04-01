@@ -1,5 +1,5 @@
 #container{
-    background-image: url('/css/imcpt-coffee-playground.png');
+    background-image: url('imcpt-coffee-playground.png');
     background-size:cover;
     border-image-slice:100%;
     border-image-width:.5;
